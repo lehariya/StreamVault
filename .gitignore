@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+**/.env
+
+# Node
+node_modules/
+dist/
+
+# Database
+*.db
+*.sqlite3
+
+# System files
+.DS_Storegit add.
